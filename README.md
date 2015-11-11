@@ -15,3 +15,4 @@ Copyright Docker Inc Education Team 2014 <education@docker.com>
 
 #OH GOD pls make it work
 #whats wrong with docker hub
+#docket hub just wont work
